@@ -1,0 +1,30 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	background-color: #ffffff;
+}
+
+.main-wrapper {
+	height: 100vh;
+}
+
+.components-entry {
+	display: none;
+}
+.show-components {
+	display: block;
+}
+
+.main-wrapper .main-content {
+	width: 100%;
+	height: 100%;
+	padding: 10%;
+	background-color: #efefef;
+}
+
+.main-wrapper .main-content .entry-info .entry-info-head {
+	margin: 0 0 20px 0;
+}
+.main-wrapper .main-content .entry-info .entry-info-head p {
+	margin: 0;
+}
